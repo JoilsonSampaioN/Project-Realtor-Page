@@ -29,3 +29,35 @@ div{
     background-color: antiquewhite;
     border:solid 0px;
 }
+@media (max-width:414px){
+    header {
+        height: 2cm;
+        width: 100%;
+    }
+    a{
+        padding-top: 0%;
+        font-size: 15px;
+        text-align: center;
+        margin-top: 25px;
+    }
+    .fotos-review{
+        margin-right: 1px;
+    }
+    ul{
+        font-size: 5px;
+        padding-left: 0px;
+    }
+    li{
+        padding-left: 0px;
+    }
+    div{
+        font-size: 20px;
+        padding: 10px;
+        align-items: center;
+        text-align: center;
+    }
+    body{
+        background-image: url(./img/fundo-what-we-sale.jpg);
+        background-position: center;
+    }
+    }

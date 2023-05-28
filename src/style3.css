@@ -50,5 +50,30 @@ a{
   li{
     size: 10px;
   }
-
+  @media (max-width:414px){
+    header {
+        height: 2cm;
+        width: 100%;
+    }
+    a{
+        padding-top: 0%;
+        font-size: 15px;
+        text-align: center;
+        margin-top: 25px;
+    }
+    ul{
+        font-size: 15px;
+    }
+    li{
+        padding-left: 0px;
+    }
+    p{
+      font-size: 15px;
+    }
+    html{
+      background-image: url(./img/fundo-what-we-sale.jpg);
+      background-size: cover;
+      background-attachment: fixed;
+    }
+    }
 
