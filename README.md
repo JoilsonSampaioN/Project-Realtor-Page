@@ -4,6 +4,6 @@
 <h3>Visão Geral</h3>
 <p>O objetivo deste projeto é criar um website profissional e atraente para Luciana Silva, que represente sua marca pessoal e forneça informações relevantes aos clientes interessados em comprar ou vender imóveis. O website foi desenvolvido utilizando as seguintes tecnologias:</p>
 
-<p><strong>HTML:</strong>responsável pela estrutura e organização do conteúdo do website.</p>
-<p><strong>CSS:</strong>utilizado para estilizar o layout e a aparência visual do website.
-<p><strong>JavaScript:</strong>utilizado para adicionar interatividade e funcionalidades dinâmicas ao website.
+<p><strong>HTML:</strong> responsável pela estrutura e organização do conteúdo do website.</p>
+<p><strong>CSS:</strong> utilizado para estilizar o layout e a aparência visual do website.
+<p><strong>JavaScript:</strong> utilizado para adicionar interatividade e funcionalidades dinâmicas ao website.
